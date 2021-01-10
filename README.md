@@ -1,1 +1,1 @@
-# CME241-RL-in-finance
+# Reinforcement Learning for Stochastic Control Problems in Finance
